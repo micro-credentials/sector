@@ -1,5 +1,5 @@
 {
-  "@context": "https://yourdomain.com",
+  "@context": "https://raw.githubusercontent.com/micro-credentials/main/refs/heads/main/credential-unit.json",
   "id": "https://yourdomain.com/sector/ict/credential-unit/csharp-basic-programming.json",
   "type": "skos:Concept",
   "name": "Programming with C#",

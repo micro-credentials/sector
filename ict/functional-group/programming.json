@@ -1,6 +1,6 @@
 {
-  "@context": "https://yourdomain.com",
-  "id": "https://yourdomain.com",
+  "@context": "https://raw.githubusercontent.com/micro-credentials/main/refs/heads/main/credential-unit.json",
+  "id": "https://raw.githubusercontent.com/micro-credentials/sector/refs/heads/main/ict/functional-group/programming.json",
   "type": "skos:Concept",
   "name": "Computer programming activities",
   "description": "This functional group include computer programming activities",

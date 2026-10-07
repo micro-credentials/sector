@@ -1,6 +1,6 @@
 {
-  "@context": "https://yourdomain.com",
-  "id": "https://yourdomain.com",
+  "@context": "https://raw.githubusercontent.com/micro-credentials/main/refs/heads/main/credential-unit.json",
+  "id": "https://raw.githubusercontent.com/micro-credentials/sector/refs/heads/main/list.json",
   "type": "skos:OrderedCollection",
   "name": "Sector List",
   "description": "The master list of all industrial and commercial sectors.",

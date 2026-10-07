@@ -1,12 +1,12 @@
 {
-  "@context": "https://yourdomain.com",
-  "id": "https://yourdomain.com",
+  "@context": "https://raw.githubusercontent.com/micro-credentials/main/refs/heads/main/credential-unit.json",
+  "id": "https://raw.githubusercontent.com/micro-credentials/sector/refs/heads/main/ict.json",
   "type": "skos:Concept",
   "name": "Information and Communications Technology",
   "description": "The sector encompassing telecommunications, hardware, software, and digital services.",
   "functionalGroups": [
     {
-      "id": "https://yourdomain.com",
+      "id": "https://raw.githubusercontent.com/micro-credentials/sector/refs/heads/main/ict/functional-group/programming.json",
       "type": "skos:Concept"
     }
   ]
