@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
-  "@id": "https://yourdomain.com/ict.json",
+  "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict.json",
   "name": "Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",
   "description": "Sector covering software engineering, digital infrastructure, telecommunications and cloud computing.",
   "termCode": "K",
   "hasDefinedTerm": [
     {
       "@type": "DefinedTerm",
-      "@id": "https://yourdomain.com/ict/programming.json"
+      "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict/programming.json"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://yourdomain.com/ict/data-processing-hosting.json"
+      "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict/data-processing-hosting.json"
     }
   ]
 }
