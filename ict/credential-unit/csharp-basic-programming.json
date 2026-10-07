@@ -1,0 +1,9 @@
+{
+  "@context": "https://yourdomain.com",
+  "id": "https://yourdomain.com/sector/ict/credential-unit/csharp-basic-programming.json",
+  "type": "skos:Concept",
+  "name": "Programming with C#",
+  "description": "This credential unit definition is for programming with C#",
+  "criteria": "To complete this unit a learner must : write C# code using types and statements",
+  "belongsToFunctionalGroup": "https://yourdomain.com"
+}

@@ -1,9 +1,0 @@
-{
-  "@context": "https://schema.org",
-  "@type": "DefinedTerm",
-  "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict/data-processing-hosting.json",
-  "name": "Computing infrastructure, data processing, hosting and related activities",
-  "description": "This functional group include computing infrastructure, data processing, cloud, hosting and related activities.",
-  "termCode": "6310",
-  "inDefinedTermSet": "https://unstats.un.org/unsd/classifications/Econ/Download/ISIC_Rev5_Publication-white_cover_version.pdf"
-}

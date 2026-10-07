@@ -1,18 +1,13 @@
 {
-  "@context": "https://schema.org",
-  "@type": "DefinedTermSet",
-  "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict.json",
-  "name": "Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",
-  "description": "Sector covering software engineering, digital infrastructure, telecommunications and cloud computing.",
-  "termCode": "K",
-  "hasDefinedTerm": [
+  "@context": "https://yourdomain.com",
+  "id": "https://yourdomain.com",
+  "type": "skos:Concept",
+  "name": "Information and Communications Technology",
+  "description": "The sector encompassing telecommunications, hardware, software, and digital services.",
+  "functionalGroups": [
     {
-      "@type": "DefinedTerm",
-      "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict/programming.json"
-    },
-    {
-      "@type": "DefinedTerm",
-      "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/ict/data-processing-hosting.json"
+      "id": "https://yourdomain.com",
+      "type": "skos:Concept"
     }
   ]
 }

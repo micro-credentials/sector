@@ -1,0 +1,14 @@
+{
+  "@context": "https://yourdomain.com",
+  "id": "https://yourdomain.com",
+  "type": "skos:Concept",
+  "name": "Computer programming activities",
+  "description": "This functional group include computer programming activities",
+  "belongsToSector": "https://yourdomain.com",
+  "credentialUnits": [
+    {
+      "id": "https://yourdomain.com/sector/ict/credential-unit/csharp-basic-programming.json",
+      "type": "skos:Concept"
+    }
+  ]
+}

@@ -1,17 +1,14 @@
 {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "@id": "https://raw.githubusercontent.com/micro-credentials/sectors/refs/heads/main/list.json",
-    "name": "Sector List",
-    "description": "The list of all sectors.",
-    "numberOfItems": 1,
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@id": "https://yourdomain.com/ict.json"
-            }
-        }
-    ]
+  "@context": "https://yourdomain.com",
+  "id": "https://yourdomain.com",
+  "type": "skos:OrderedCollection",
+  "name": "Sector List",
+  "description": "The master list of all industrial and commercial sectors.",
+  "sectors": [
+    {
+      "id": "https://yourdomain.com",
+      "type": "skos:Concept",
+      "position": 1
+    }
+  ]
 }
